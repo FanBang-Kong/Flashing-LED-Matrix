@@ -1,2 +1,2 @@
 # Flashing-LED-Matrix
-Just like the title, this is a simple attempt to use a LED Matrix. While it was accomplished by Arduino uno in VSCode platformio, it is not difficult for someone who are just begin to study Arduino.
+As the title suggests, this is a basic project using a LED Matrix, accomplished with an Arduino Uno through VSCode's PlatformIO. It's not challenging for those just starting to explore Arduino.
